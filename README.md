@@ -13,7 +13,7 @@ You can install the latest version from Github using:
 
 ``` r
 library('devtools')
-install_github('elsayed-lab/org.Tb927.tritryp.db')
+install_github('wanjauk/org.Tb927.tritryp.db')
 ```
 
 Usage
